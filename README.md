@@ -4,7 +4,7 @@
 I'm Markus, also known as Gomace, and I aspire to create a completed project one day \(:
 
 ## **Occupation**
-I currently study a Bachelor's degree in IT & Informationsystems at the University of Agder.
+I currently study a Bachelor's degree in IT & Information Systems at the University of Agder.
 
 ## **Professional Interests**
 My hopeful goal is to become not just a proficient Software Developer, but understand and be adept at the process of creating Software in a team environment effectively. I still have things to work on 😅
